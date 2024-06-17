@@ -1,0 +1,11 @@
+main: net.bluismine.bcash.BCash
+name: BCash
+version: 1.0.2
+api-version: 1.21
+author: Bluismine
+
+commands:
+  bcash:
+    description: Give/Remove Cash
+    usage: /bcash
+    permission: bcash.admin
